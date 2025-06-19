@@ -4,7 +4,7 @@
 
     <groupId>ru.job4j.di</groupId>
     <artifactId>job4j_di</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>job4j_di</name>
