@@ -4,7 +4,7 @@ DI, IoC, Beans, BeanFactory, ApplicationContext
 Жизненный цикл Spring Bean
 Конфигурация контейнера
 Bean definitions
-//////////////////
+Multi-stage build
 //////////////////
 ////////////////////
 ///////////////////
